@@ -10,6 +10,6 @@ Feel free to connect with me on [Twitter](https://twitter.com/pcmsuh).
 ![Pandas](https://img.shields.io/badge/-Pandas-FFFFFF?logo=pandas&logoColor=150458)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF)
-![Numpy](https://img.shields.io/badge/-Pandas-FFFFFF?logo=numpy&logoColor=013243)
+![Numpy](https://img.shields.io/badge/-Numpy-FFFFFF?logo=numpy&logoColor=013243)
 ![Windows](https://img.shields.io/badge/-Windows-FFFFFF?logo=windows11&logoColor=0078D4)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?logo=ubuntu&logoColor=E95420)
