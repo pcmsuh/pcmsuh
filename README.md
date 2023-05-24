@@ -11,5 +11,6 @@ Feel free to connect with me on [Twitter](https://twitter.com/pcmsuh).
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF)
 ![Numpy](https://img.shields.io/badge/-Numpy-FFFFFF?logo=numpy&logoColor=013243)
+![scikit-learn](https://img.shields.io/badge/-Scikitlearn-FFFFFF?logo=scikitlearn&logoColor=F7931E)
 ![Windows](https://img.shields.io/badge/-Windows-FFFFFF?logo=windows11&logoColor=0078D4)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?logo=ubuntu&logoColor=E95420)
