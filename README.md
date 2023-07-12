@@ -10,5 +10,5 @@ Feel free to connect with me on [Twitter](https://twitter.com/pcmsuh).
 ![Pandas](https://img.shields.io/badge/-Pandas-FFFFFF?logo=pandas&logoColor=150458)
 ![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-FFFFFF?logo=scikitlearn&logoColor=F7931E)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF)
-![Plotly](https://img.shields.io/badge/-Plotly-FFFFFF?logo=plotly&logoColor=3F4F75)
+![Git](https://img.shields.io/badge/-Git-FFFFFF?logo=git&logoColor=#F05032)
 ![Windows](https://img.shields.io/badge/-Windows-FFFFFF?logo=windows11&logoColor=0078D4)
