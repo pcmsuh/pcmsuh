@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hello 👋
 
-I'm Philip, an aspiring data analyst in Tokyo, Japan. I'm working mostly in the Python data ecosystem.
+I'm Philip, an aspiring data analyst in Tokyo. I work mostly in Python on fashion datasets. Feel free to connect with me on [Twitter](https://twitter.com/pcmsuh).
 
-Feel free to connect with me on [Twitter](https://twitter.com/pcmsuh).
+#### Quick Links:
+
+* **Fashion Week Dates Google Calendar [Link](https://calendar.google.com/calendar/u/0?cid=azk2djltcXNjYTZsYTY2ZzJxc2tzZTNucGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)**  
+  Fashion Week Dates for the "Big 4", bridal, men’s, women’s ready-to-wear, haute couture, Miami Swim Week, and international events.  
+  Code in [pcmsuh/apis/google_calendar](https://github.com/pcmsuh/apis/tree/main/google_calendar)
+
+#### Tools:
 
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?logo=python&logoColor=3776AB)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?logo=jupyter&logoColor=F37626)
