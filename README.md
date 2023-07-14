@@ -5,7 +5,7 @@ I'm Philip, an aspiring data analyst in Tokyo. I work mostly in Python on fashio
 #### Quick Links:
 
 * **Fashion Week Dates Google Calendar [Link](https://calendar.google.com/calendar/u/0?cid=azk2djltcXNjYTZsYTY2ZzJxc2tzZTNucGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)**  
-  Made using re, pandas, datetime, dateutil.parser, googleapiclient.discovery and google_auth_oauthlib.flow.  
+  Made using regex to parse a list of dates and the Google Calendar API to add the events.  
   Code in [pcmsuh/apis/google_calendar](https://github.com/pcmsuh/apis/tree/main/google_calendar)
 
 #### Tools:
