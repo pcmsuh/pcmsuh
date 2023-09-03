@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Philip, an aspiring data analyst in Tokyo. I work mostly in Python on fashion datasets. Feel free to connect with me on [Twitter](https://twitter.com/pcmsuh).
+I'm Philip, an aspiring data analyst in Tokyo. I'm working mostly in the Python data ecosystem. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pcmsuh/).
 
 #### Quick Links:
 
